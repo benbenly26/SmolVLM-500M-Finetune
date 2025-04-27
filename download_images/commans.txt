@@ -1,0 +1,7 @@
+[
+  {"id": 1, "image_path": "https://example.com/image1.png"},
+  {"id": 2, "image_path": "https://example.com/image2.png"}
+]
+
+id: A unique identifier for each image.
+image_path: The URL from where the image will be downloaded.
