@@ -1,0 +1,13 @@
+****install below commands in terminal****
+
+sudo apt-get update
+sudo apt-get install wkhtmltopdf
+sudo apt install pandoc -y
+
+****install above commands in terminal****
+
+The trained model adapter has been uploaded, and the folder path has been added.
+From the adapter, we need to provide a PDF and download the extracted images.
+After downloading the images, they should be converted into Markdown format.
+These Markdown files will then be converted back into a PDF for manual validation.
+This process helps in understanding how the trained model performs extraction and generates output.
