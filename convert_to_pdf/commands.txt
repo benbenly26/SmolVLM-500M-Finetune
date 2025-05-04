@@ -1,0 +1,2 @@
+Here, the images will be converted into a PDF format, with each image named as "image_0.png," "image_1.png," and so on.
+This process ensures that each image is properly organized and sequentially numbered for easy reference within the final PDF document.
