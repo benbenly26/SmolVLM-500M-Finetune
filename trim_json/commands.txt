@@ -1,0 +1,2 @@
+This script repairs a broken JSON array by extracting valid objects.
+It then trims the cleaned data to a specified number of entries as needed.
