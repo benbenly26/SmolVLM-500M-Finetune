@@ -1,0 +1,6 @@
+****install below commands in terminal****
+
+sudo apt update
+sudo apt install wkhtmltopdf
+
+****install above commands in terminal****
