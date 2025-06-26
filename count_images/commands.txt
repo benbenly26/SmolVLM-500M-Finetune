@@ -1,0 +1,1 @@
+The folder path should be specified so that the image count can be printed. Supported formats include: .jpg, .jpeg, .png, .bmp, .gif, .tiff, and .webp.
